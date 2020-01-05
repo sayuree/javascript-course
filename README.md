@@ -1,0 +1,1 @@
+Simple JavaScript project: making a sketch on a board
